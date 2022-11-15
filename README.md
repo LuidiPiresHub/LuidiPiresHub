@@ -1,17 +1,13 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/104798394/201837526-6b2aab78-0386-43be-a8b7-d1d26c8306e9.png">
+<img align="right" width="250px" style="margin-top:-20px"
+  src="https://user-images.githubusercontent.com/104798394/201837526-6b2aab78-0386-43be-a8b7-d1d26c8306e9.png">
 
 </br>
 
 <div dsplay="inline-block" target="_blank">
-
   <h1 align="left">Luídi Pires</h1>
-
-  <a href="https://www.linkedin.com/in/luídi-pires/" target="_blank"><img
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      target="_blank"></a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luídi-pires/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
 
 </br>
@@ -45,7 +41,8 @@ metodologias ágeis e habilidades comportamentais.
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" margim-left="600px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"
+    margim-left="600px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" target="_blank"
     width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40" />
@@ -59,11 +56,11 @@ metodologias ágeis e habilidades comportamentais.
 ## ⚙️️ Back-End
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50"
-    height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70"
+    height="70" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    width="50" height="50" />
+    width="70" height="70" />
 </div>
 
 </br>
