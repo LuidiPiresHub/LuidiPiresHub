@@ -15,9 +15,7 @@
 
 # Sobre mim!
 
-Tenho 19 anos e estou atualmente cursando Desenvolvimento Web Full Stack na Trybe, Atualmente sou formado como
-desenvolvedor front-end, Estou cursando back-end e estou começando minha carreira como pessoa programadora aqui na Trybe
-rumo ao Full Stack.
+Olá! Eu sou Luidi Pires, um desenvolvedor Fullstack apaixonado por tecnologia e programação. Me formei na Trybe, onde adquiri um amplo conhecimento em diversas tecnologias e frameworks para construir aplicações web escaláveis e eficientes. Comecei a estudar em abril de 2022 e terminei em maio de 2023, e desde então tenho trabalhado em projetos pessoais e em equipe para aprimorar minhas habilidades e expandir meu conhecimento. Adoro desafios e estou sempre em busca de novas oportunidades para aprender e crescer profissionalmente. Além disso, sou um entusiasta de tecnologia e sempre interessado em estar atualizado com as últimas tendências e avanços no campo da tecnologia.
 
 A <a href="https://www.betrybe.com/" target="_blank">Trybe</a> é uma escola de tecnologia, que proporciona uma formação
 com mais de 1500 horas, abordando fundamentos de desenvolvimento Web, Front-end, Back-end, ciência da computação,
