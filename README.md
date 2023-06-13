@@ -61,7 +61,7 @@ metodologias ágeis e habilidades comportamentais.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
     width="70" height="70" />
   <img src="https://github.com/LuidiPiresHub/LuidiPiresHub/assets/104798394/98c7e4b5-3b39-434c-a147-f1ff176d513a"
-    width="70" height="70" />
+    width="60" height="60" />
   <img src="https://user-images.githubusercontent.com/104798394/230706237-43576ed6-e604-4d55-b69e-bf2ea568d019.png"
     width="60" height="60" />
   <img src="https://user-images.githubusercontent.com/104798394/230706307-5bb17cb1-350d-405f-8717-75c264a29d06.png"
