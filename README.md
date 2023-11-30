@@ -5,7 +5,7 @@
 
 <div dsplay="inline-block" target="_blank">
   <h1 align="left"><nobr>Luídi Pires</nobr></h1>
-<h1><a href="https://luidi-pires-portfolio.vercel.app" target="_blank" style="font-size: 20px; text-decoration: none; margin-bottom: 10px; display: inline-block;">✨ Meu Portfólio ✨</a></h1>
+<h3><a href="https://luidi-pires-portfolio.vercel.app" target="_blank" style="font-size: 20px; text-decoration: none; margin-bottom: 10px; display: inline-block;">✨ Meu Portfólio ✨</a></h3>
 
   <div style="margin-top: 10px">
   <a href="https://www.linkedin.com/in/luídi-pires/" target="_blank">
