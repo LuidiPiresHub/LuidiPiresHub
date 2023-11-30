@@ -4,11 +4,14 @@
 </br>
 
 <div dsplay="inline-block" target="_blank">
-  <h1 align="left">Luídi Pires</h1>
+  <h1 align="left"><nobr>Luídi Pires</nobr></h1>
+  <a href="https://luidi-pires-portfolio.vercel.app." target="_blank" style="font-size: 20px">✨ Meu Portfólio ✨</a>
+  <div style="margin-top: 10px">
   <a href="https://www.linkedin.com/in/luídi-pires/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:luidihot@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
 </div>
 
 </br>
@@ -71,8 +74,8 @@ metodologias ágeis e habilidades comportamentais.
 </br>
 
 <div align="center">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuidiPiresHub&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="100%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuidiPiresHub&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
     </br>
-  <img height="180em"
+  <img width="100%" height="200px" style="margin-top: 20px"
     src="https://github-readme-stats.vercel.app/api?username=LuidiPiresHub&theme=github_dark&show_icons=true" />
 </div>
