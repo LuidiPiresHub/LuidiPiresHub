@@ -27,6 +27,8 @@ metodologias ágeis e habilidades comportamentais.
 
 </br>
 
+<img src="https://github.com/user-attachments/assets/537488c6-76a5-41d1-9204-edbc771fe3f6" />
+
 ## 🛠️ Ferramentas
 
 <div align="center">
