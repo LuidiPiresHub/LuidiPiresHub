@@ -8,7 +8,7 @@
 <h3><a href="https://luidi-pires-portfolio.vercel.app" target="_blank" style="font-size: 20px; text-decoration: none; margin-bottom: 10px; display: inline-block;">✨ Meu Portfólio ✨</a></h3>
 
   <div style="margin-top: 10px">
-  <a href="https://www.linkedin.com/in/luídi-pires/" target="_blank">
+  <a href="https://www.linkedin.com/in/luidi-pires/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:luidipiresdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
